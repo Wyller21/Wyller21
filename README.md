@@ -1,6 +1,6 @@
 - 👋 Olá, meu nome é Wyller,
 - Estou aprendendo a programar e conhecendo novas ferramentas.
-- Atualmente trabalho/estudo as seguintes linguagems:
+- Atualmente estudo as seguintes linguagems:
 - JS - Pyton - C# - SQL
 - Tenho maior interesse por Bancos de Dados e Segurança.
 - Como me encontrar:
