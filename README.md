@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @Wyller21
-- 👀 I’m interested in ... 
-Learn to program and learn about new tools.
-- 🌱 I’m currently learning ...
-JS - Pyton - C# - SQL
-- 💞️ I’m looking to collaborate on ...
-development backend
-- 📫 How to reach me ...
-giviam@hotmail.com
+- 👋 Olá, meu nome é Wyller,
+- Estou aprendendo a programar e conhecendo novas ferramentas.
+- Atualmente trabalho/estudo as seguintes linguagems:
+- JS - Pyton - C# - SQL
+- Tenho maior interesse por Bancos de Dados e Segurança.
+- Como me encontrar:
+  <div>
+  <a href="https://www.linkedin.com/in/wyller-givian-faria-440845201/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:giviam@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  
+  
+  </div>
 
 <!---
 Wyller21/Wyller21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
