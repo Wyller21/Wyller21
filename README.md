@@ -1,8 +1,7 @@
 - 👋 Olá, meu nome é Wyller,
 - Estou aprendendo a programar e conhecendo novas ferramentas.
-- Atualmente estudo as seguintes linguagems:
-- JS - Pyton - C# - SQL
-- Tenho maior interesse por Bancos de Dados e Segurança.
+- Atualmente estudo:
+-  HTML - CSS - JavaScript - Pyton - Git/Github 
 - Como me encontrar:
   <div>
   <a href="https://www.linkedin.com/in/wyller-givian-faria-440845201/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
